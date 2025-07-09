@@ -1,4 +1,4 @@
-# Coop's GitHub
+# Coops' GitHub
 Welcome to my profile, Here you can find all my repositories and work in progress. 
 
 ## Current Projects:
@@ -7,4 +7,4 @@ Welcome to my profile, Here you can find all my repositories and work in progres
 -  Finalizing Dotfiles for release.
 
 ## Stats:
-![stcoops's GitHub stats](https://github-readme-stats.vercel.app/api?username=stcoops&show_icons=true&theme=tokyonight)
+![stcoops's GitHub stats](https://github.com/stcoops/heatmapgenerator/assets/heatmap.png)
