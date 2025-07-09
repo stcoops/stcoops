@@ -9,4 +9,4 @@ Welcome to my profile, Here you can find all my repositories and work in progres
 ## Stats:
 My Commits over the last 28 days:
 ![stcoops's GitHub stats](https://github.com/stcoops/HeatmapGenerator/blob/main/assets/heatmap.png)
-[*(HeatMapGen a work in progress)*](https://github.com/stcoops/HeatmapGenerator)
+[*(HeatMapGen*](https://github.com/stcoops/HeatmapGenerator)*A work in Progress*)
