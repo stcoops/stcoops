@@ -7,4 +7,4 @@ Welcome to my profile, Here you can find all my repositories and work in progres
 -  Finalizing Dotfiles for release.
 
 ## Stats:
-![stcoops's GitHub stats](https://github.com/stcoops/heatmapgenerator/assets/heatmap.png)
+![stcoops's GitHub stats](https://github.com/stcoops/HeatmapGenerator/blob/main/assets/heatmap.png)
